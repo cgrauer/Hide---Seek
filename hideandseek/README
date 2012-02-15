@@ -1,0 +1,38 @@
+Installation instructions
+
+It's about as easy as I could possible make it! You find Hide & Seek on the
+concrete5.org marketplace and install it using the "Extend concrete5" tool 
+within your c5 installation.
+
+For manual installation download and place the hideandseek folder inside 
+your packages directory, before using the "Extend concrete5" tool.
+
+Hide & Seek will create two blocktypes:
+"Hide & Seek": to split content into dropdown divisions
+"Hide & Seek Stopper": to manually end dropdown divisions
+
+For any further information please contact the Hide and Seek's 
+addon-page at the concrete5 marketplace or the concrete5 community.
+
+Christian Grauer 2012 www.cgrauer.de
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Installationsanleitung
+
+Die Installation von Hide & Seek erfolgt über den concrete5.org Marketplace und 
+das in Ihrer c5 Installation eingebaute Erweiterungs-Tool. 
+
+Für eine manuelle Installation laden sie das Addon herunter und kopieren das
+Verzeichnis "hideandseek" in den Ordner "packages" Ihrer c5 Installation. Dann 
+verwenden Sie das eingebaute Erweiterungs-Tool von c5, um Hide & Seek zu
+installieren.
+
+Hide & Seek stellt zwei neue Blocktypen zur Verfügung
+"Hide & Seek": teilt Seiteninhalte in ein- und ausblendbare Bereiche auf
+"Hide & Seek Stopper": beendet manuell einen ein-/ausblendbaren Bereich
+
+Für weitere Informationen wenden Sie sich an die Hide and Seek Addon-Seite
+auf dem concrete5.org Marketplace oder an die concrete5 Community.
+
+Christian Grauer 2012 www.cgrauer.de

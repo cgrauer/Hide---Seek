@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Hide & Seek 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-01 17:25+0100\n"
+"PO-Revision-Date: 2012-02-01 17:25+0100\n"
+"Last-Translator: Christian Grauer <mail@cgrauer.de>\n"
+"Language-Team: Christian Grauer <mail@cgrauer.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: t\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: controller.php:13
+msgid "Hide and Seek"
+msgstr "Hide and Seek"
+
+#: controller.php:17
+msgid "Hide & Seek"
+msgstr "Hide & Seek"
+
+#: blocks/hideandseek/controller.php:26
+#: blocks/hideandseek_stop/controller.php:17
+msgid "Ends Hide & Seek sections."
+msgstr "Beendet Hide & Seek Abschnitte."
+
+#: blocks/hideandseek/controller.php:30
+#: blocks/hideandseek_stop/controller.php:21
+msgid "Hide & Seek Stopper"
+msgstr "Hide & Seek Stopper"
+
+#: blocks/hideandseek/edit.php:11
+msgid "Buttons"
+msgstr "Buttons"
+
+#: blocks/hideandseek/edit.php:12
+#: blocks/hideandseek/edit.php:47
+msgid "Teaser"
+msgstr "Teaser"
+
+#: blocks/hideandseek/edit.php:13
+#: blocks/hideandseek/edit.php:20
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: blocks/hideandseek/edit.php:24
+msgid "Automatically hide content if another section is opened"
+msgstr "Inhaltsbereich automatisch schließen wenn ein anderer Bereich geöffnet wird"
+
+#: blocks/hideandseek/edit.php:28
+msgid "Show content on page load"
+msgstr "Inhalt beim Laden der Seite anzeigen"
+
+#: blocks/hideandseek/edit.php:32
+msgid "Hide teaser when section is open"
+msgstr "Teaser bei geöffnetem Inhaltsbereich nicht anzeigen"
+
+#: blocks/hideandseek/edit.php:36
+msgid "Append button to teaser (without break)"
+msgstr "Den Button direkt an den Teaser anhängen (ohne Absatz)"
+
+#: blocks/hideandseek/edit.php:40
+msgid "Utilize entire teaser as a link"
+msgstr "Den gesamte Teaser als Link verwenden"
+
+#: blocks/hideandseek/edit.php:49
+msgid "The HTML content is displayed before the open/close button. See Settings to utilize entire teaser as button."
+msgstr "Dieser HTML-Inhalt erscheint vor dem Öffnen/Schließen-Button. Um den gesamten Teaser als Button zu verwenden siehe Einstellungen."
+
+#: blocks/hideandseek/edit.php:60
+msgid "Control Buttons"
+msgstr "Steuerung-Buttons"
+
+#: blocks/hideandseek/edit.php:61
+msgid "Select an HTML tag and text to display as open/close button. Upon selecting an image, the HTML content will be used as alt-text and the selected HTML tag will be ignored."
+msgstr "Wähle einen HTML-Tag und Text, der als Öffnen/Schließen-Button angezeigt wird. Bei Auswahl eines Bildes wird der HTML-Text als Alternativtext zum Bild verwendet und der gewählte HTML-Tag ignoriert."
+
+#: blocks/hideandseek/edit.php:64
+msgid "Open Button"
+msgstr "Öffnen Button"
+
+#: blocks/hideandseek/edit.php:82
+#: blocks/hideandseek/edit.php:107
+msgid "Choose Image"
+msgstr "Bild auswählen"
+
+#: blocks/hideandseek/edit.php:89
+msgid "Close Button"
+msgstr "Schließen-Button"
+
+#: blocks/hideandseek/editor_controls.php:15
+msgid "Add Image"
+msgstr "Bild hinzufügen"
+
+#: blocks/hideandseek/editor_controls.php:16
+msgid "Add File"
+msgstr "Datei hinzufügen"
+
+#: blocks/hideandseek/editor_controls.php:18
+#: blocks/hideandseek/editor_controls.php:20
+msgid "Insert Link to Page"
+msgstr "Link zu einer Seite einfügen"
+
+#: blocks/hideandseek/editor_controls.php:22
+msgid "Customize Toolbar"
+msgstr "Toolbar anpassen"
+
+#: blocks/hideandseek/view.php:9
+msgid "Hide & Seek controller is deactivated when in edit mode"
+msgstr "Hide & Seek ist im Bearbeitungsmodus deaktiviert"
+
+#: blocks/hideandseek_stop/edit.php:8
+msgid "This block needs no configuration"
+msgstr "Dieser Blocktyp benötigt keine Einstellungen"
+
+#: blocks/hideandseek_stop/view.php:13
+msgid "Hide & Seek Stopper controller is disabled when in edit mode"
+msgstr "Hide & Seek Stopper ist im Bearbeitungsmodus deaktiviert."
+
+#: libraries/cglib.php:5
+#: libraries/installer.php:6
+msgid "Access Denied."
+msgstr "Zugriff verboten."
+
+#~ msgid "Stops hide & seek areas."
+#~ msgstr "Beendet Hide & Seek Bereiche"
+
+#~ msgid "start block"
+#~ msgstr "Startblock"
+
+#~ msgid "SSL Switch Settings"
+#~ msgstr "SSL Switch Settings"

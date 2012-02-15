@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+
+	<table name="btHideAndSeek">
+		<field name="bID" type="I"><key /><unsigned /></field>				
+		<field name="teaser" type="X2"></field>
+		<field name="openTag" type="C" size="255"></field>
+		<field name="openLink" type="C" size="255"></field>
+		<field name="openLinkImageID" type="I"></field>
+		<field name="closeTag" type="C" size="255"></field>
+		<field name="closeLink" type="X2"></field>
+		<field name="closeLinkImageID" type="I"></field>
+		<field name="teaserIsLink" type="L"></field>
+		<field name="appendLinkToTeaser" type="L"></field>
+		<field name="hideTeaserOnOpen" type="L"></field>
+		<field name="autoClose" type="L"></field>
+		<field name="openOnLoad" type="L"></field>
+	</table>
+
+</schema>
